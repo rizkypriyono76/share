@@ -12,7 +12,7 @@
                           </span>
             </div><!-- /input-group -->
         </div>
-<!--
+
         <div class="widget">
             <div class="widget-heading">
                 <h4>Categories</h4>
@@ -91,7 +91,7 @@
                 </ul>
             </div>
         </div>
-
+<!--
         <div class="widget">
             <div class="widget-heading">
                 <h4>Tags</h4>
