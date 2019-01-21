@@ -8,7 +8,7 @@
             <article class="post-item">
                 <div class="post-item-image">
                     <a href="post.html">
-                        <img src="{{asset('img/post1.jpg')}}" alt="">
+                        <img src="{{asset('img/Post+Image+1.jpg')}}" alt="">
                     </a>
                 </div>
                 <div class="post-item-body">
